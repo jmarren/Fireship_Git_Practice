@@ -7,3 +7,6 @@
  #changes
  changes
  
+ This was added on github.com
+ 
+# merge conflict was resolved
