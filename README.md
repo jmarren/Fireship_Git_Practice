@@ -10,3 +10,7 @@
  This was added on github.com
  
 # merge conflict was resolved
+
+
+Jake Jake JAKE
+JAkE JaKe jAkE
